@@ -1,6 +1,6 @@
 # NodeJs Project
 
-This repository contains practical Node.js projects and exercises completed by Devsharma511 as part of learning backend development.
+This repository contains practical Node.js projects and exercises completed by Devansh as part of learning backend development.
 
 ## About
 
