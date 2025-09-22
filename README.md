@@ -1,15 +1,5 @@
 # NodeJs Project
 
-This repository contains a Node.js project developed by Devansh. 
-
-## About
-
-- This project is intended for learning and practicing Node.js development.
-- It includes examples of server-side JavaScript programming using Node.js.
-- The project structure and code demonstrate basic concepts of building backend services.
-
-# NodeJs Project
-
 This repository contains practical Node.js projects and exercises completed by Devsharma511 as part of learning backend development.
 
 ## About
