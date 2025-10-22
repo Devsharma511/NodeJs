@@ -1,6 +1,25 @@
 {
   "dependencies": {
+    "express": "^5.1.0",
     "mongodb": "^6.19.0"
   },
-  "type": "module"
+  "type": "module",
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "This repository contains practical Node.js projects and exercises completed by Devansh as part of learning backend development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devsharma511/NodeJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devsharma511/NodeJs/issues"
+  },
+  "homepage": "https://github.com/Devsharma511/NodeJs#readme"
 }
